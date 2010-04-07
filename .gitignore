@@ -1,0 +1,5 @@
+*.shp
+*.shx
+*.dbf
+frames/*.png
+*.pyc
